@@ -27,7 +27,5 @@ Skills: ## 🛠️ Skills  Python, C++, Java, HTML, CSS, JavaScript, React, Tens
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/FatematuzzohuraSathi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mst-fatematuzzohura-sathi-a58042307/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/share/1543ztuEXPB/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/FatematuzzohuraSathi)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/FatematuzzohuraSathi/contributions?format=svg&private=false)  
 
